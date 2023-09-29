@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "fe9b8b4587423dd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "34e9eb6b2edabcd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9c9a9500005b223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bfb23667b502120",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a27193c96459865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf7fb043cbd89a19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36f20e5e75b6c4c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d581eb575db808c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "48878f85e37e837d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a26c3bfba2ed7fd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecdb3fc2b9602b51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2b73f16079f2053",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c29bf3c1208769e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2b80d879d8d2c7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md"
+              }
+            }
+          },
+          {
+            "id": "b03185864c1416a8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d9c9a9500005b223",
+  "lastOpenFiles": [
+    "SANS OSINT 2023/6th Speaker.md",
+    "SANS OSINT 2023/4th Speaker.md",
+    "SANS OSINT 2023/3rd Speaker.md",
+    "SANS OSINT 2023/01 Day 1.md",
+    "SANS OSINT 2023/2nd Speaker.md",
+    "OSINT Electoral Data My research.md",
+    "18 Conclusion & Additional Resources/Conclusion & Additional Resource.md",
+    "17 OSINT Report Writing/01  Writing an OSINT Report.md",
+    "Readme.md",
+    "Sock Puppet's.md",
+    "00 Introduction/00 Images/Pasted image 20230928112731.png",
+    "00 Introduction/00 Images/Pasted image 20230928112732.png",
+    "16 Case Studies/01 Case Study The Final Hours of Pop Smoke.md",
+    "Pasted image 20230927143735.png.md",
+    "15 Course Challenge/02  Course Challenge Walkthrough.md",
+    "00 Introduction/00 Images/Pasted image 20230927173653.png",
+    "15 Course Challenge/01 Course Challenge Overview.md",
+    "00 Introduction/00 Images/Pasted image 20230927172643.png",
+    "00 Introduction/00 Images/Pasted image 20230927172552.png",
+    "00 Introduction/00 Images/Pasted image 20230927142448.png",
+    "08 Social Media OSINT/01 Twitter OSINT Part 1.md",
+    "00 Introduction/00 Images/Pasted image 20230927143735.png",
+    "00 Introduction/00 Images/Pasted image 20230927142744.png",
+    "00 Introduction/00 Images/Pasted image 20230927144135.png",
+    "00 Introduction/00 Images/Pasted image 20230927144607.png",
+    "14 OSINT Automation Foundations/01 Automating Website OSINT.md",
+    "13 Working with OSINT Tools/08 Other Tools.md",
+    "13 Working with OSINT Tools/07  Exploring OSINT Frameworks.md",
+    "13 Working with OSINT Tools/06  Website OSINT.md",
+    "13 Working with OSINT Tools/05 Social Media OSINT.md",
+    "13 Working with OSINT Tools/04 Phone Number OSINT.md",
+    "13 Working with OSINT Tools/03 Username and Account OSINT.md",
+    "13 Working with OSINT Tools/02  Hunting Emails and Breached Data.md",
+    "13 Working with OSINT Tools/01 Image and Location OSINT.md",
+    "13 Working with OSINT Tools/00  Introduction.md",
+    "12 Building an OSINT Lab/OSINT VM's.md",
+    "18 Conclusion & Additional Resources",
+    "17 OSINT Report Writing",
+    "16 Case Studies",
+    "15 Course Challenge",
+    "14 OSINT Automation Foundations",
+    "13 Working with OSINT Tools",
+    "12 Building an OSINT Lab",
+    "SANS OSINT 2023/Images",
+    "SANS OSINT 2023",
+    "11 Wireless OSINT"
+  ]
+}
